@@ -1,3 +1,5 @@
+export const runtime = "nodejs";
+
 import { createRouteHandler } from "uploadthing/next";
 
 import { fileRouter } from "./core";
