@@ -289,7 +289,21 @@ This project is currently distributed with no explicit open-source license. Plea
 
 ---
 
-## 👤 Author
+---
 
-- **GitHub:** [@Happybhai329](https://github.com/Happybhai329)
-- **Live Demo:** [plura-multivendor-platform.vercel.app](https://plura-multivendor-platform.vercel.app)
+## 👤 Author & Maintainer
+
+**Happy Bhasin**  
+*Full Stack & AI Engineer* | Amity University Madhya Pradesh (B.Tech CSE with Minor in AI/ML)  
+
+- 🌐 **GitHub:** [@Happybhai329](https://github.com/Happybhai329)  
+- 💼 **LinkedIn:** [Happy Bhasin](https://www.linkedin.com/in/happy-bhasin-908191267)  
+- 📧 **Email:** [bhasinhappy0506@gmail.com](mailto:bhasinhappy0506@gmail.com)  
+- 📱 **Phone:** +91 9220553665  
+- 📍 **Location:** India (Open to Remote & Global Relocation)  
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
